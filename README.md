@@ -7,4 +7,5 @@ I trained 3 Convolutional Neural Networks (CNNs), including a basic CNN designed
 After training, various experiments were performed on the models to learn about their abilities and the impacts of transfer learning on such tasks, using each neural network's top-1 classification accuracy, precision and recall. Its classification patterns were quantified using Confusion Matrices and its features were visualized and evaluated qualitatevely using Saliency Maps.
 
 [Study](https://github.com/arya23065/CNNExperimentsAnimal10N/blob/main/Animal_Identification_Study.pdf)
+
 [Code](https://github.com/arya23065/CNNExperimentsAnimal10N/blob/main/CNN_ANIMAL_10N.ipynb)
